@@ -1,0 +1,10 @@
+# venv
+.venv/
+
+# Data folders
+DICTDB/
+TMPDATA/
+UFCDATA/
+
+# Data files
+all_train_test.csv
